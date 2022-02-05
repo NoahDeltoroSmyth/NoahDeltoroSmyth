@@ -1,11 +1,14 @@
-### 🍀 Hi there 
+Fully motivated to find my niche in the tech industry as a software developer. Everything I work on I strive to commit 100% to create a well-rounded product whether that be a side project or for a business. My passions reside in functional art and making meaningful connections with the community around me. Feel free to connect and let's create!
 
-My name is Noah and I am a software developer. I have experience with HTML, CSS, Vanilla JS and
-React, but always want to learn more. I am a quick learner, am fast on my feet, and am always ready tackle the next obstacle. I have previous history in the service industry that has helped me develop many skills working with people which will make me a good part of any team. I want to use the skills I have acquired throughout my past to do good and make the world a better place to live.
+Languages: {JavaScript, React, HTML, CSS}
+Libraries&Frameworks: [ReactJS, Node.js]
+Testing: | Jest |
+API: / REST /
+Dev Tools: (VsCode, GitHub, Netlify, SupaBase, Postman, Miro, Slack, Zoom)
 
 - 🌱 I’m currently learning:
     
-    React and dynamic JavaScript
+    ReactJS
     
 - 👯 I’m looking to collaborate on:
 
@@ -17,6 +20,6 @@ React, but always want to learn more. I am a quick learner, am fast on my feet, 
 
     noahsmyth96@gmail.com
     
-- ⚡ Silly little fun fact: 
+- ⚡ Just a ittle fun fact: 
 
     It is physically impossible for pigs to look up into the sky.
