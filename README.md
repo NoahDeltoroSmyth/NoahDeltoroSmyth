@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a human, {Noah}</h1>
+<h1 align="center">Hi I'm a human, {Noah}</h1>
 
 - 🔭 I’m currently working on **finding my niche in the tech world**
 
@@ -28,10 +28,15 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node" />
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="mui" />
 </div>
-<br></br>
+
 <!-- stats / repocard --> 
+<br></br>
+<h2>Past Projects</h2>
+<a href="https://github.com/NoahDeltoroSmyth/scrounger"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noahdeltorosmyth&repo=scrounger&theme=radical" /></a>
+<a href="https://github.com/NoahDeltoroSmyth/texas-hold-em"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noahdeltorosmyth&repo=texas-hold-em&theme=radical" /></a>
+
 <br></br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahdeltorosmyth&show_icons=true&theme=cobalt" alt="noahdeltorosmyth"/>
 
-<a href="https://github.com/NoahDeltoroSmyth/scrounger"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noahdeltorosmyth&repo=scrounger&theme=radical" /></a>
+
