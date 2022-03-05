@@ -38,12 +38,16 @@ Interests: "Vintage Motorcycles, cats, and the outdoors"
 
 
 <!-- stats / repocard --> 
-<h2>Past Projects</h2>
+<h2>Past Projects:</h2>
 
 <a href="https://github.com/NoahDeltoroSmyth/scrounger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noahdeltorosmyth&repo=scrounger&theme=radical" /></a>
 <a href="https://github.com/NoahDeltoroSmyth/Once-Upawn-a-Time"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noahdeltorosmyth&repo=Once-Upawn-a-Time&theme=radical" /></a>
 <a href="https://github.com/NoahDeltoroSmyth/texas-hold-em"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noahdeltorosmyth&repo=texas-hold-em&theme=radical" /></a>
 
-<img width="400px" height="150px" src="https://github.com/NoahDeltoroSmyth/NoahDeltoroSmyth/blob/output/github-contribution-grid-snake.gif"
+<div align="center">
+
+<img width="444px" align="center" src="https://github-readme-stats.vercel.app/api?username=noahdeltorosmyth&show_icons=true&theme=cobalt" alt="noahdeltorosmyth"/>
+<br></br>
+<img width="555px" src="https://github.com/NoahDeltoroSmyth/NoahDeltoroSmyth/blob/output/github-contribution-grid-snake.svg"
 />
-<img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=noahdeltorosmyth&show_icons=true&theme=cobalt" alt="noahdeltorosmyth"/>
+</div>
