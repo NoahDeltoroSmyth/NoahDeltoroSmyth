@@ -1,5 +1,5 @@
-<h1 align="center">Welcom to my gitHub! I'm {Noah}</h1>
-
+<h1 align="center">Welcom to my gitHub! I'm { Noah }</h1>
+  
 ```css
 let Noah = {
 CurrentlyWorkingOn: "finding my niche in the tech world",
@@ -7,11 +7,19 @@ CurrentlyLearning: "ReactJS",
 WouldLikeToCollaborateOn: "fun projects that bring people together",
 WebPortfolio: "Coming soon!",
 AskMeAboutMy: "favorite nature spots in the PNW",
+Interests: "Vintage Motorcycles, cats, and the outdoors",
 Email: "NoahSmyth96@gmail.com",
 linkedIn: "linkedin.com/in/noahdeltorosmyth"
-Interests: "Vintage Motorcycles, cats, and the outdoors"
 }
 ```
+
+<!-- Connect -->
+<h3 align="left">Connect with me:</h3>
+<div align="left"
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noahdeltorosmyth/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noahsmyth96@gmail.com)
+</div>
 
 <!-- Languages and Tools Tags -->
 <h3 align="left">Languages and Tools:</h3>
@@ -34,20 +42,27 @@ Interests: "Vintage Motorcycles, cats, and the outdoors"
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node" />
   
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="mui" />
+  
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 
 
 <!-- stats / repocard --> 
 <h2>Past Projects:</h2>
 
+<div align="center">
 <a href="https://github.com/NoahDeltoroSmyth/scrounger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noahdeltorosmyth&repo=scrounger&theme=radical" /></a>
 <a href="https://github.com/NoahDeltoroSmyth/Once-Upawn-a-Time"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noahdeltorosmyth&repo=Once-Upawn-a-Time&theme=radical" /></a>
 <a href="https://github.com/NoahDeltoroSmyth/texas-hold-em"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noahdeltorosmyth&repo=texas-hold-em&theme=radical" /></a>
-
+</div>
+  
 <div align="center">
 
 <img width="444px" align="center" src="https://github-readme-stats.vercel.app/api?username=noahdeltorosmyth&show_icons=true&theme=cobalt" alt="noahdeltorosmyth"/>
 <br></br>
-<img width="555px" src="https://github.com/NoahDeltoroSmyth/NoahDeltoroSmyth/blob/output/github-contribution-grid-snake.svg"
-/>
+<img width="555px" src="https://github.com/NoahDeltoroSmyth/NoahDeltoroSmyth/blob/output/github-contribution-grid-snake.svg"/>
 </div>
