@@ -3,7 +3,7 @@
 ```css
 let Noah = {
 CurrentlyWorkingOn: "finding my niche in the tech world",
-CurrentlyLearning: "ReactJS",
+CurrentlyLearning: "ReactJS, Express & postgreSQL",
 WouldLikeToCollaborateOn: "fun projects that bring people together",
 WebPortfolio: "Coming soon!",
 AskMeAboutMy: "favorite nature spots in the PNW",
